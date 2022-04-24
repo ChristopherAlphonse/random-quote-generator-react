@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+}
+
+button {
+  background-color: rgb(107, 172, 172);
+  outline: none;
+  border-radius: 2rem;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(81, 121, 121);
+  transition: all 0.25s ease-in-out;
+}
+
+.quote {
+  color: #9b2727;
+}
