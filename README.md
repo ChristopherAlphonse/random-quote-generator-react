@@ -1,3 +1,4 @@
-# react-6ouo42
+# random Quotes 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-6ouo42)
+- use Math.random and Math.floor to set the randomness to have a random index on click of the button
+- 
