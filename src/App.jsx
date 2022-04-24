@@ -5,7 +5,7 @@ const quotes = [
   'Age is of no importance unless you’re a cheese. ',
 
   'Change is not a four letter word… but often your reaction to it is',
-
+  
   ,
   'Every tattoo is temporary, because we’re all slowly dying.',
 
